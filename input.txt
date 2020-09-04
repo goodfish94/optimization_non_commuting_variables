@@ -1,0 +1,3 @@
+2 1 0.0 1000
+
+lattice_size hopping(t) Hubbard_interaction(U) max_iteration_numbe
